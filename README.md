@@ -42,7 +42,7 @@ You can unzip both parts and run them separately on your local machine.
 ## How to Run It
 
 ### Backend:
-
+```bash
 unzip backend.zip
 cd backend
 pip install -r requirements.txt
@@ -51,7 +51,7 @@ python manage.py runserver
 ```
 ----------------------------------------------
 ### Frontend:
-
+```bash
 unzip frontend.zip
 cd frontend
 npm install
