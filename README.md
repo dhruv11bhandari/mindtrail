@@ -1,6 +1,7 @@
 # MindTrail – Learning Tracker
+((((NOT DEPLOYED))))
 
-MindTrail is a personal project I built to help track study goals and learning habits over time. It's a full-stack web app made using **Django (backend)** and **React.js (frontend)**, and was inspired by the need to stay more consistent with daily learning .
+MindTrail is a personal project I built to help track study goals and learning habits over time. It's a full-stack web app made using **Django (backend)** and **React.js (frontend)**, and was inspired by the need to stay more consistent with my daily learning .
 
 I wanted to create something simple yet useful — a space where you can log what you study, set weekly targets, and get visual feedback on your progress.
 
